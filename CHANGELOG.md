@@ -16,6 +16,7 @@
 
 - [#8091](https://github.com/influxdata/influxdb/issues/8091): Do not increment the continuous query statistic if no query is run.
 - [#8064](https://github.com/influxdata/influxdb/issues/8064): Forbid wildcards in binary expressions.
+- [#8093](https://github.com/influxdata/influxdb/issues/8093): Fix the time range when an exact timestamp is selected.
 
 ## v1.2.2 [2017-03-14]
 
