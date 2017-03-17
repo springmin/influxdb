@@ -18,6 +18,8 @@
 - [#8064](https://github.com/influxdata/influxdb/issues/8064): Forbid wildcards in binary expressions.
 - [#8148](https://github.com/influxdata/influxdb/issues/8148): Fix fill(linear) when multiple series exist and there are null values.
 - [#7995](https://github.com/influxdata/influxdb/issues/7995): Update liner dependency to handle docker exec.
+- [#8155](https://github.com/influxdata/influxdb/pull/8155): Simplify admin user check.
+
 
 ## v1.2.2 [2017-03-14]
 
